@@ -1,4 +1,5 @@
-<h1 align="left">Hello, I'm Aubrey! </h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,%20I'm%20Aubrey!)](https://git.io/typing-svg)
+
 CS @ University of South Florida
 </p>
 <a href="https://linkedin.com/in/aubrey-kopkau">
