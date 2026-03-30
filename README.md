@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,%20I'm%20Aubrey!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=6C0044&width=435&lines=Hello%2C+I'm+Aubrey!)](https://git.io/typing-svg)
 
 CS @ University of South Florida
 </p>
