@@ -1,7 +1,10 @@
 # KopkauA.github.io-
 
+<h1 align="left">Hey, I'm Aubrey! </h1>
+CS @ University of South Florida
+</p>
 <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-aubrey-kopkau-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aubrey%20Kopkau-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:YOUR-EMAIL@gmail.com">
