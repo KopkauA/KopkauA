@@ -2,11 +2,7 @@
 
 <h2>About Me</h2>
 
-<img height="20" src="./assets/bull-head.gif" /> I'm currently majoring in Computer Science and minoring in Entrepreneurship at the University of South Florida.  
-
-<br>
-
-<img height="20" src="./assets/computer.gif" /> I'm working on Cat-a-log, a Flutter-based mobile app that allows users to track and report cats in their area!
+<img height="20" src="./assets/bull-head.gif" /> I'm currently majoring in Computer Science and minoring in Entrepreneurship at the University of South Florida. My favorite project I'm working on is Cat-a-log, a Flutter-based mobile app that allows users to track and report cats in their area!
 
 <a href="https://linkedin.com/in/aubrey-kopkau">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aubrey%20Kopkau-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
